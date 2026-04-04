@@ -146,9 +146,9 @@ Power BI dashboard available here:
 [`PowerBI visuals`](https://github.com/Imran3285/nextbike-stirling-PowerBI-analysis/tree/main/PowerBI%20visuals)
 
 Includes:
-- Demand trends
-- Station imbalance analysis
-- Redistribution strategy visuals
+- Stations Flow
+- Time Series Analysis
+- Redistribution Scheme
 
 ---
 
